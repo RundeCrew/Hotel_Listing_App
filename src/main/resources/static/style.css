@@ -1,0 +1,26 @@
+body {
+  background-color: #17383f;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 15px;
+  text-align: center;
+  margin: 0;
+  color: azure;
+}
+
+h1 {
+	color: "black";
+	font-family: "Great Vibes", cursive;
+	font-size: 60px;
+	padding: 10px;
+}
+
+form {
+	font-family: "Papyrus", sans-serif;
+	font-size: 35px;
+	padding: 25px;
+}
+
+.container {
+	padding: 12px;
+}
